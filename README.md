@@ -2,4 +2,4 @@
 ![](cocos-creator-conveyor.gif)
 
 # WebSite
-https://noitalog.tokyo/cocos-creator-conveyor/
+https://noitaro.github.io/cocos-creator-conveyor/
